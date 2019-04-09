@@ -1,0 +1,3 @@
+albums:
+    type:     rest
+    resource: App\Controller\AlbumController
