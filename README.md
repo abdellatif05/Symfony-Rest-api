@@ -1,8 +1,13 @@
-###FEATURES:
-######-Implementation of FOSRestBundle
-######-simple crud (get, cget, post, put, delete)
+# FEATURES
 
-###TODO:
-######-api documentation
-######-authentication
-######-authorization
+-Implementation of FOSRestBundle
+
+-simple crud (get, cget, post, put, delete)
+
+# TODO
+
+-api documentation
+
+-authentication
+
+-authorization
